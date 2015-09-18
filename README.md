@@ -10,4 +10,4 @@ apiSecret=YOUR_SECRET_KEY_GO_THERE
 
 Change Android.manifest under proj.android-studio/app/
 
-<meta-data android:name="io.fabric.ApiKey" android:value="YOUR_API_KEY_GO_THERE" />
+< meta-data android:name="io.fabric.ApiKey" android:value="YOUR_API_KEY_GO_THERE" />
